@@ -1,0 +1,13 @@
+{
+	"name": "stonenyy/view",
+	"description": "一个PHP视图类",
+	"keywords": ["stonenyy", "view"],
+	"homepage": "http://blog.ttny.net",
+	"license": "MIT",
+	"authors": [
+		{"name": "Stonenyy"}
+	],
+	"autoload": {
+		"files": ["View.php"]
+	}
+}
